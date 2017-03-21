@@ -1,0 +1,19 @@
+INDEX VERSION 1.129+C:\Users\Neto\Documents\Estruturas de dados\.metadata\.plugins\org.eclipse.jdt.core
+3886679341.index
+3950871211.index
+1661308021.index
+492170339.index
+3133382570.index
+1410395250.index
+891755765.index
+649046137.index
+1565683926.index
+1578097990.index
+2762109528.index
+2535093234.index
+2386555793.index
+3986944288.index
+516177720.index
+3497624703.index
+258805330.index
+70643506.index
